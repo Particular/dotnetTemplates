@@ -8,7 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="5.0.1" />
     <PackageReference Include="NServiceBus" Version="8.0.0-alpha.940" />
-    <PackageReference Include="NServiceBus.Raw" Version="3.2.2" />
+    <PackageReference Include="NServiceBus.Raw" Version="3.2.4" />
     <PackageReference Include="ServiceControl.TransportAdapter" Version="2.0.1" />
   </ItemGroup>
 
