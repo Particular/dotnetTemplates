@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="5.0.1" />
     <PackageReference Include="NServiceBus" Version="8.0.0-alpha.940" />
     <PackageReference Include="NServiceBus.Extensions.Hosting" Version="2.0.0-alpha.143" />
-    <PackageReference Include="NServiceBus.Newtonsoft.Json" Version="3.0.0-alpha.153" />
+    <PackageReference Include="NServiceBus.Newtonsoft.Json" Version="3.0.0-alpha.86" />
   </ItemGroup>
 
 </Project>
